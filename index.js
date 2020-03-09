@@ -20,3 +20,19 @@ function appendKitten(name){
    kittens.unshift(name)
    return kittens
 }
+function appendKitten(name){
+   kittens.unshift(name)
+   return kittens
+}
+function appendKitten(name){
+   kittens.unshift(name)
+   return kittens
+}
+function appendKitten(name){
+   kittens.unshift(name)
+   return kittens
+}
+function appendKitten(name){
+   kittens.unshift(name)
+   return kittens
+}
