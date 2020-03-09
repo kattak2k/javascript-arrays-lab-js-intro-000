@@ -20,19 +20,15 @@ function appendKitten(name){
    kittens.unshift(name)
    return kittens
 }
-function appendKitten(name){
+function prependKitten(name){
    kittens.unshift(name)
    return kittens
 }
-function appendKitten(name){
+function removeLastKitten(){
    kittens.unshift(name)
    return kittens
 }
-function appendKitten(name){
-   kittens.unshift(name)
-   return kittens
-}
-function appendKitten(name){
+function removeFirstKitten(){
    kittens.unshift(name)
    return kittens
 }
